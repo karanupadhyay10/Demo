@@ -1,4 +1,3 @@
 # Demo
-<strength>Experimental Repo 
-<br>
-Author : Karan Upadhyay</strength>
+<b>Experimental Repo</b><br>
+Author : Karan Upadhyay
